@@ -1,7 +1,5 @@
 /**
-This is based on TitleCreator.py, created by gabe@abinante.com
-
-Source mirrored at https://gist.github.com/mgreensmith/c427ad924a7291faf35c
+This is a JS version of https://github.com/gabinante/TitleCreator
 */
 
 var jobCategories = ['Solutions', 'Systems', 'Network', 'Security', 'Compliance', 'Information', 'Scalability'];

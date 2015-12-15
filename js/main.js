@@ -2,13 +2,13 @@
 This is a JS version of https://github.com/gabinante/TitleCreator
 */
 
-var jobCategories = ['Solutions', 'Systems', 'Network', 'Security', 'Compliance', 'Information', 'Scalability'];
+var jobCategories = ['Solutions', 'Systems', 'Network', 'Security', 'Compliance', 'Information', 'Scalability', 'Cloud'];
 
 var possessivePrefixes = ['Viceroy','Commandant', 'Grand Poo-Bah', 'Archon', 'Duke', 'Chancellor', 'President', 'Marquis', 'Earl', 'Director', 'Chair', 'Head', 'Senior Director'];
 var possessiveSuffixes = ['Engineering', 'Management', 'Development', 'Deployment', 'Technical Training', 'Operations', 'Architecture', 'Infrastructure', 'Technology', 'Administration', 'Management', 'Computational Analytics', 'Database Administration'];
 
 var adjectivePrefixes = ['Principal','Chief','Head','Lead', 'Senior', 'Master'];
-var adjectiveSuffixes = ['Engineer', 'Architect', 'Designer', 'Consultant', 'Manager', 'Officer'];
+var adjectiveSuffixes = ['Engineer', 'Architect', 'Designer', 'Consultant', 'Manager', 'Officer', 'Janitor'];
 
 var romanGrades = ['I', 'II', 'III', 'IV'];
 
